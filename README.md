@@ -13,3 +13,5 @@ Runtime: 8 ms, faster than 89.96% of C++ online submissions for Palindrome Numbe
 Memory Usage: 5.9 MB, less than 100.00% of C++ online submissions for Palindrome Number  
 
 #0004:  
+Runtime: 12 ms, faster than 75.27% of C++ online submissions for Roman to Integer.  
+Memory Usage: 6.1 MB, less than 100.00% of C++ online submissions for Roman to Integer.  
