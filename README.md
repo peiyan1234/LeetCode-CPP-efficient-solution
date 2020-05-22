@@ -9,6 +9,7 @@ Runtime: 0 ms, faster than 100.00% of C++ online submissions for Reverse Integer
 Memory Usage: 6.1 MB, less than 100.00% of C++ online submissions for Reverse Integer.  
 
 #0003:  
-
+Runtime: 8 ms, faster than 89.96% of C++ online submissions for Palindrome Number.  
+Memory Usage: 5.9 MB, less than 100.00% of C++ online submissions for Palindrome Number  
 
 #0004:  
