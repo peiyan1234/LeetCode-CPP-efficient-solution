@@ -19,3 +19,7 @@ Memory Usage: 6.1 MB, less than 100.00% of C++ online submissions for Roman to I
 #0005:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Longest Common Prefix.  
 Memory Usage: 9.3 MB, less than 6.45% of C++ online submissions for Longest Common Prefix.  
+
+#0006:
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Valid Parentheses.
+Memory Usage: 6.3 MB, less than 62.68% of C++ online submissions for Valid Parentheses.
