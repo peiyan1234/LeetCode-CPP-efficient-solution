@@ -22,4 +22,4 @@ Memory Usage: 9.3 MB, less than 6.45% of C++ online submissions for Longest Comm
   
 #0006:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Valid Parentheses.  
-Memory Usage: 6.3 MB, less than 62.68% of C++ online submissions for Valid Parentheses.  
+Memory Usage: 6.2 MB, less than 93.75% of C++ online submissions for Valid Parentheses.  
