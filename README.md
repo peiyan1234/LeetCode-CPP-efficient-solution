@@ -31,3 +31,8 @@ Memory Usage: 14.6 MB, less than 35.23% of C++ online submissions for Merge Two 
 #0008:  
 Runtime: 8 ms, faster than 99.93% of C++ online submissions for Remove Duplicates from Sorted Array.  
 Memory Usage: 13.9 MB, less than 45.84% of C++ online submissions for Remove Duplicates from Sorted Array.  
+
+#0009:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Remove Element.  
+Memory Usage: 9 MB, less than 44.78% of C++ online submissions for Remove Element.  
+
