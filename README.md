@@ -36,3 +36,6 @@ Memory Usage: 13.9 MB, less than 45.84% of C++ online submissions for Remove Dup
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Remove Element.  
 Memory Usage: 9 MB, less than 44.78% of C++ online submissions for Remove Element.  
 
+#0010:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Implement strStr().  
+Memory Usage: 7.1 MB, less than 5.24% of C++ online submissions for Implement strStr().  
