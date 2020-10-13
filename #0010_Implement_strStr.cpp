@@ -64,3 +64,8 @@ public:
         return -1;
     }
 };
+
+/*
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Implement strStr().
+Memory Usage: 7.1 MB, less than 5.24% of C++ online submissions for Implement strStr().
+*/
