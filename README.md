@@ -39,3 +39,7 @@ Memory Usage: 9 MB, less than 44.78% of C++ online submissions for Remove Elemen
 #0010:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Implement strStr().  
 Memory Usage: 7.1 MB, less than 5.24% of C++ online submissions for Implement strStr().  
+
+#0011:  
+Runtime: 4 ms, faster than 99.13% of C++ online submissions for Search Insert Position.  
+Memory Usage: 10 MB, less than 99.99% of C++ online submissions for Search Insert Position.  
