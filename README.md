@@ -43,3 +43,7 @@ Memory Usage: 7.1 MB, less than 5.24% of C++ online submissions for Implement st
 #0011:  
 Runtime: 4 ms, faster than 99.13% of C++ online submissions for Search Insert Position.  
 Memory Usage: 10 MB, less than 99.99% of C++ online submissions for Search Insert Position.  
+
+#0012:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Count and Say.  
+Memory Usage: 7.3 MB, less than 14.93% of C++ online submissions for Count and Say.  
