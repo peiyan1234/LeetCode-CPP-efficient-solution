@@ -39,12 +39,9 @@ public:
     int maxSubArray(vector<int>& nums) {
         if (nums.size() == 1) return nums[0];
         size_t _index_ = 1;
-        int ANS, min;
-        ANS = nums[0];
+        int ANS = nums[0], min = 0;
         if (nums[0] < 0)
             min = nums[0];
-        else
-            min = 0;
         while (_index_ < nums.size()) 
         {
             nums[_index_] = nums[_index_] + nums[_index_ - 1];
