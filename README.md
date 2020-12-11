@@ -49,5 +49,5 @@ Runtime: 0 ms, faster than 100.00% of C++ online submissions for Count and Say.
 Memory Usage: 7.3 MB, less than 14.93% of C++ online submissions for Count and Say.  
 
 #0013: 
-Runtime: 8 ms, faster than 96.25% of C++ online submissions for Maximum Subarray. 
+Runtime: 8 ms, faster than 96.25% of C++ online submissions for Maximum Subarray.   
 Memory Usage: 13.4 MB, less than 92.49% of C++ online submissions for Maximum Subarray. 
