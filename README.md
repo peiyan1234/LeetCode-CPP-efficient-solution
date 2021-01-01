@@ -55,3 +55,7 @@ Memory Usage: 13.4 MB, less than 92.49% of C++ online submissions for Maximum Su
 #0014:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Length of Last Word.  
 Memory Usage: 6.7 MB, less than 98.97% of C++ online submissions for Length of Last Word.  
+
+#0015:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Plus One.    
+Memory Usage: 9.2 MB, less than 73.93% of C++ online submissions for Plus One.  
