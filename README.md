@@ -62,4 +62,4 @@ Memory Usage: 9.2 MB, less than 73.93% of C++ online submissions for Plus One.
 
 #0016:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Add Binary.  
-Memory Usage: 6.5 MB, less than 80.79% of C++ online submissions for Add Binary.  
+Memory Usage: 6.5 MB, less than 95.18% of C++ online submissions for Add Binary.  
