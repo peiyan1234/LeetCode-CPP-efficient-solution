@@ -75,3 +75,7 @@ Memory Usage: 6.2 MB, less than 91.52% of C++ online submissions for Climbing St
 #0019:
 Runtime: 8 ms, faster than 98.56% of C++ online submissions for Remove Duplicates from Sorted List.  
 Memory Usage: 12 MB, less than 90.70% of C++ online submissions for Remove Duplicates from Sorted List.  
+
+#0020:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Merge Sorted Array.  
+Memory Usage: 9.4 MB, less than 83.49% of C++ online submissions for Merge Sorted Array.  
