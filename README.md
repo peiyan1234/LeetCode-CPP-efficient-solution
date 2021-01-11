@@ -79,3 +79,7 @@ Memory Usage: 12 MB, less than 90.70% of C++ online submissions for Remove Dupli
 #0020:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Merge Sorted Array.  
 Memory Usage: 9.4 MB, less than 83.49% of C++ online submissions for Merge Sorted Array.  
+
+#0021:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Same Tree.  
+Memory Usage: 10.4 MB, less than 66.01% of C++ online submissions for Same Tree.  
