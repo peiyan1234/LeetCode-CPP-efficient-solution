@@ -83,3 +83,7 @@ Memory Usage: 9.4 MB, less than 83.49% of C++ online submissions for Merge Sorte
 #0021:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Same Tree.  
 Memory Usage: 10.4 MB, less than 66.01% of C++ online submissions for Same Tree.  
+
+#0022:
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Symmetric Tree.  
+Memory Usage: 16.2 MB, less than 93.33% of C++ online submissions for Symmetric Tree.  
