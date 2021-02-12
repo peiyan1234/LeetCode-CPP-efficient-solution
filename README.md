@@ -87,3 +87,7 @@ Memory Usage: 10.4 MB, less than 66.01% of C++ online submissions for Same Tree.
 #0022:
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Symmetric Tree.  
 Memory Usage: 16.2 MB, less than 93.33% of C++ online submissions for Symmetric Tree.  
+
+#0023:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Maximum Depth of Binary Tree.  
+Memory Usage: 18.8 MB, less than 93.69% of C++ online submissions for Maximum Depth of Binary Tree.  
