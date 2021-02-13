@@ -91,3 +91,7 @@ Memory Usage: 16.2 MB, less than 93.33% of C++ online submissions for Symmetric 
 #0023:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Maximum Depth of Binary Tree.  
 Memory Usage: 18.8 MB, less than 93.69% of C++ online submissions for Maximum Depth of Binary Tree.  
+
+#0024:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Binary Tree Level Order Traversal II.  
+Memory Usage: 12.7 MB, less than 66.43% of C++ online submissions for Binary Tree Level Order Traversal II.  
