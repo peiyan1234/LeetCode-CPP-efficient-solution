@@ -99,3 +99,7 @@ Memory Usage: 12.7 MB, less than 66.43% of C++ online submissions for Binary Tre
 #0025:  
 Runtime: 8 ms, faster than 99.91% of C++ online submissions for Convert Sorted Array to Binary Search Tree.  
 Memory Usage: 20.5 MB, less than 100.00% of C++ online submissions for Convert Sorted Array to Binary Search Tree.  
+
+#0026:  
+Runtime: 4 ms, faster than 98.70% of C++ online submissions for Balanced Binary Tree.  
+Memory Usage: 20.9 MB, less than 47.24% of C++ online submissions for Balanced Binary Tree.  
