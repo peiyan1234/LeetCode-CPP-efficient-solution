@@ -123,3 +123,7 @@ Memory Usage: 6.4 MB, less than 86.99% of C++ online submissions for Pascal's Tr
 #0031:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Pascal's Triangle II.  
 Memory Usage: 6.2 MB, less than 86.74% of C++ online submissions for Pascal's Triangle II.  
+
+#0032:  
+Runtime: 100 ms, faster than 95.79% of C++ online submissions for Best Time to Buy and Sell Stock.  
+Memory Usage: 93.3 MB, less than 85.12% of C++ online submissions for Best Time to Buy and Sell Stock.  
