@@ -119,3 +119,7 @@ Memory Usage: 7.9 MB, less than 98.87% of C++ online submissions for Binary Tree
 #0030:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Pascal's Triangle.  
 Memory Usage: 6.4 MB, less than 86.99% of C++ online submissions for Pascal's Triangle.  
+
+#0031:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Pascal's Triangle II.  
+Memory Usage: 6.2 MB, less than 86.74% of C++ online submissions for Pascal's Triangle II.  
