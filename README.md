@@ -115,3 +115,7 @@ Memory Usage: 21.1 MB, less than 85.81% of C++ online submissions for Path Sum.
 #0029:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Binary Tree Inorder Traversal.  
 Memory Usage: 7.9 MB, less than 98.87% of C++ online submissions for Binary Tree Inorder Traversal.  
+
+#0030:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Pascal's Triangle.  
+Memory Usage: 6.4 MB, less than 86.99% of C++ online submissions for Pascal's Triangle.  
