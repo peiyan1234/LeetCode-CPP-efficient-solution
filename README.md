@@ -111,3 +111,7 @@ Memory Usage: 144.5 MB, less than 96.81% of C++ online submissions for Minimum D
 #0028:  
 Runtime: 4 ms, faster than 98.49% of C++ online submissions for Path Sum.  
 Memory Usage: 21.1 MB, less than 85.81% of C++ online submissions for Path Sum.  
+
+#0029:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Binary Tree Inorder Traversal.  
+Memory Usage: 7.9 MB, less than 98.87% of C++ online submissions for Binary Tree Inorder Traversal.  
