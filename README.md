@@ -139,3 +139,7 @@ Memory Usage: 7.3 MB, less than 80.54% of C++ online submissions for Valid Palin
 #0035:  
 Runtime: 4 ms, faster than 99.98% of C++ online submissions for Single Number.  
 Memory Usage: 17.1 MB, less than 22.63% of C++ online submissions for Single Number.  
+
+#0036:  
+Runtime: 4 ms, faster than 99.89% of C++ online submissions for Linked List Cycle.  
+Memory Usage: 7.9 MB, less than 79.20% of C++ online submissions for Linked List Cycle.  
