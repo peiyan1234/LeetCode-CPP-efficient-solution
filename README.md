@@ -135,3 +135,7 @@ Memory Usage: 13 MB, less than 84.93% of C++ online submissions for Best Time to
 #0034:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Valid Palindrome.  
 Memory Usage: 7.3 MB, less than 80.54% of C++ online submissions for Valid Palindrome.  
+
+#0035:  
+Runtime: 4 ms, faster than 99.98% of C++ online submissions for Single Number.  
+Memory Usage: 17.1 MB, less than 22.63% of C++ online submissions for Single Number.  
