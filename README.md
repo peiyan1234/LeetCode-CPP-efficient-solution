@@ -131,3 +131,7 @@ Memory Usage: 93.3 MB, less than 85.12% of C++ online submissions for Best Time 
 #0033:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Best Time to Buy and Sell Stock II.  
 Memory Usage: 13 MB, less than 84.93% of C++ online submissions for Best Time to Buy and Sell Stock II.  
+
+#0034:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Valid Palindrome.  
+Memory Usage: 7.3 MB, less than 80.54% of C++ online submissions for Valid Palindrome.  
