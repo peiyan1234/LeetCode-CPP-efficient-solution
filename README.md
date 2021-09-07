@@ -151,3 +151,7 @@ Memory Usage: 8.4 MB, less than 41.67% of C++ online submissions for Binary Tree
 #0038:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Binary Tree Postorder Traversal.  
 Memory Usage: 7.8 MB, less than 99.63% of C++ online submissions for Binary Tree Postorder Traversal.  
+
+#0039:  
+Runtime: 16 ms, faster than 97.15% of C++ online submissions for Min Stack.  
+Memory Usage: 16.2 MB, less than 91.95% of C++ online submissions for Min Stack.  
