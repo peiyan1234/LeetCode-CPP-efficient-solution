@@ -155,3 +155,7 @@ Memory Usage: 7.8 MB, less than 99.63% of C++ online submissions for Binary Tree
 #0039:  
 Runtime: 16 ms, faster than 97.15% of C++ online submissions for Min Stack.  
 Memory Usage: 16.2 MB, less than 91.95% of C++ online submissions for Min Stack.  
+
+#0040:  
+Runtime: 36 ms, faster than 96.32% of C++ online submissions for Intersection of Two Linked Lists.  
+Memory Usage: 14.6 MB, less than 30.88% of C++ online submissions for Intersection of Two Linked Lists.  
