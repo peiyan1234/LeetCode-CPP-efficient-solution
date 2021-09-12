@@ -159,3 +159,7 @@ Memory Usage: 16.2 MB, less than 91.95% of C++ online submissions for Min Stack.
 #0040:  
 Runtime: 36 ms, faster than 96.32% of C++ online submissions for Intersection of Two Linked Lists.  
 Memory Usage: 14.6 MB, less than 30.88% of C++ online submissions for Intersection of Two Linked Lists.  
+
+#0041:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Two Sum II - Input array is sorted.  
+Memory Usage: 9.8 MB, less than 5.88% of C++ online submissions for Two Sum II - Input array is sorted.  
