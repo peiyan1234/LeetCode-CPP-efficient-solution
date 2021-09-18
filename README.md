@@ -4,6 +4,10 @@
 Runtime: 12 ms, faster than 80.90% of C++ online submissions for Two Sum.  
 Memory Usage: 10.1 MB, less than 53.95% of C++ online submissions for Two Sum.  
 
+$0001:  
+Runtime: 20 ms, faster than 94.56% of C++ online submissions for Add Two Numbers.  
+Memory Usage: 71.3 MB, less than 80.81% of C++ online submissions for Add Two Numbers.  
+
 #0002:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Reverse Integer.  
 Memory Usage: 6.1 MB, less than 100.00% of C++ online submissions for Reverse Integer.  
