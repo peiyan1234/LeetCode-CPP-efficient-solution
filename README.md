@@ -12,6 +12,10 @@ Memory Usage: 71.3 MB, less than 80.81% of C++ online submissions for Add Two Nu
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Reverse Integer.  
 Memory Usage: 6.1 MB, less than 100.00% of C++ online submissions for Reverse Integer.  
 
+$0002:  
+Runtime: 8 ms, faster than 85.42% of C++ online submissions for Longest Substring Without Repeating Characters.  
+Memory Usage: 8.3 MB, less than 73.18% of C++ online submissions for Longest Substring Without Repeating Characters.  
+
 #0003:  
 Runtime: 8 ms, faster than 89.96% of C++ online submissions for Palindrome Number.  
 Memory Usage: 5.9 MB, less than 100.00% of C++ online submissions for Palindrome Number  
