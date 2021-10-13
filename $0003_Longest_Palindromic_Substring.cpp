@@ -1,6 +1,6 @@
 /*
-Runtime: 16 ms, faster than 89.79% of C++ online submissions for Longest Palindromic Substring.
-Memory Usage: 9.2 MB, less than 62.16% of C++ online submissions for Longest Palindromic Substring.
+Runtime: 12 ms, faster than 93.77% of C++ online submissions for Longest Palindromic Substring.
+Memory Usage: 9.1 MB, less than 63.02% of C++ online submissions for Longest Palindromic Substring.
 
 Given a string s, return the longest palindromic substring in s.
 
