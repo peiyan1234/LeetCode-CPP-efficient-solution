@@ -21,8 +21,8 @@ Runtime: 8 ms, faster than 89.96% of C++ online submissions for Palindrome Numbe
 Memory Usage: 5.9 MB, less than 100.00% of C++ online submissions for Palindrome Number  
 
 $0003:  
-Runtime: 16 ms, faster than 89.79% of C++ online submissions for Longest Palindromic Substring.  
-Memory Usage: 9.2 MB, less than 62.16% of C++ online submissions for Longest Palindromic Substring.  
+Runtime: 12 ms, faster than 93.77% of C++ online submissions for Longest Palindromic Substring.   
+Memory Usage: 9.1 MB, less than 63.02% of C++ online submissions for Longest Palindromic Substring.   
 
 #0004:  
 Runtime: 12 ms, faster than 75.27% of C++ online submissions for Roman to Integer.  
