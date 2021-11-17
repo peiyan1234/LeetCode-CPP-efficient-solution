@@ -175,3 +175,7 @@ Memory Usage: 14.6 MB, less than 30.88% of C++ online submissions for Intersecti
 #0041:  
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Two Sum II - Input array is sorted.  
 Memory Usage: 9.8 MB, less than 5.88% of C++ online submissions for Two Sum II - Input array is sorted.  
+
+#0042:  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Invert Binary Tree.  
+Memory Usage: 10.1 MB, less than 6.22% of C++ online submissions for Invert Binary Tree.  
